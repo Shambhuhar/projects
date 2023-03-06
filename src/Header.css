@@ -1,0 +1,14 @@
+.navbar{
+    display: flex;
+  /* align-items: center; */
+  position: sticky;
+}
+
+.d-flex{
+    display: flex;
+    align-items:flex-end;
+}
+body {
+  background:white !important;
+  
+}
